@@ -65,7 +65,7 @@ Estimated Calories Burned: 320.45
 ## 👨‍💻 Author  
 Kushal Shukla
 
-https://github.com/kushalShukla25scs1003001607-ui
+https://github.com/kushal25scs1003001607-ui
 
 ---
 
